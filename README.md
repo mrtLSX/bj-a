@@ -1,5 +1,7 @@
 # vue_bj_a
 
+## 宝洁vue项目 接口使用本地 node写的数据接口
+
 ## Project setup
 ```
 yarn install
