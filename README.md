@@ -1,6 +1,9 @@
 # vue_bj_a
 
 ## 宝洁vue项目 接口使用本地 node写的数据接口
+## 首先下载api https://github.com/mrtLSX/bj_api 
+## 运行前 yarn install(先安装yarn) 
+## 运行 yarn run serve 或者 npm run serve
 
 ## Project setup
 ```
